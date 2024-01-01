@@ -3,6 +3,9 @@
 ## Introduction
 This is a simple football bot written in Python for Discord. The bot provides information about football teams, players, live match updates, and statistics.
 
+## About
+This project will use **Python** as the backend technology and will have an webpage with **React**.
+
 ## Features
 - Team information
 - Player details
